@@ -1,0 +1,12 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÔÆ³ûÿÿÿÿ8±ìÈª“2J$d6a6c096-12ff-4287-8a07-add7e879da3a
+k
+java:S5411"(Use a primitive boolean expression here.(¸âŽá8±ìÈª“2J$34358b27-82c7-492a-8a8a-8c9d81e0d486
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÎ²Šþÿÿÿÿ8±ìÈª“2J$7b78559e-582e-4481-b3f3-668b56af83fd
+¡
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(ÝÇœðûÿÿÿÿ8±ìÈª“2J$c5e0be46-2b7f-4625-af61-6675137cb59d
+¦
+java:S4276"cRefactor this code to use the more specialised Functional Interface 'BiPredicate<Integer, Integer>'(Ãý§š8±ìÈª“2J$610df8c7-e7f8-4bcb-9551-32a8985fb662
+~
+java:S1612";Replace this lambda with method reference 'Object::equals'.(Ãý§š8±ìÈª“2J$0119d09b-e841-4af9-af1b-3e0a77b3d9d7
+r	java:S106"+Replace this use of System.out by a logger.(‘ö‹‚ûÿÿÿÿ8±ìÈª“2J$41eb281d-b4a1-4d7f-b3f9-8630d4656a9c

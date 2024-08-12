@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äîÍ¡ıÿÿÿÿ8ÀîÁ¦“2J$9b0cc17d-dc31-418b-9888-1c73398a1257
+¡
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'DoubleUnaryOperator'(áŒèÓüÿÿÿÿ8ĞîÁ¦“2J$a400c55d-a0d6-4512-a879-eba660c58b7c
+m	java:S106
+"+Replace this use of System.out by a logger.(­Ü’Ó8ĞîÁ¦“2J$1df1bfae-cba4-49f8-a993-44dc33b98847
+˜
+java:S4276"URefactor this code to use the more specialised Functional Interface 'DoublePredicate'(Ûó½8ĞîÁ¦“2J$bcd64949-57f1-4b5b-b81c-754c988e10ed
+m	java:S106"+Replace this use of System.out by a logger.(ÿéİş8ĞîÁ¦“2J$1bf65ab9-26df-454f-8009-fe0ab274031c
